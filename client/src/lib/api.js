@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: 'https://nike-clone-1-yaf5.onrender.com',
+  baseURL: 'https://nike-clone-2.onrender.com/',
   headers: {
     'Content-Type': 'application/json'
   }
